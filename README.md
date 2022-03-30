@@ -1,74 +1,22 @@
-# Data analysis
-- Document here the project: FelipeBuongermino
-- Description: Project Description
-- Data Source:
-- Type of analysis:
+## Felipe Buongermino
 
-Please document the project the better you can.
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipe.buongermino@gmail.com)](mailto:felipe.buongermino@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-2867B2?style=flat-square&labelColor=2867B2&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-buongermino-464602134/)](https://www.linkedin.com/in/felipe-buongermino-464602134/)
 
-# Startup the project
+Hello there! I'm Felipe Buongermino, a Materials Science Engineer and a passionate self learner. Enthusiastic in Data science and Data Analytics. Looking for job opportunities to work on Data Science field. Fascinated in solving problems and accepting new challenges.
 
-The initial setup.
 
-Create virtualenv and install the project:
-```bash
-sudo apt-get install virtualenv python-pip python-dev
-deactivate; virtualenv ~/venv ; source ~/venv/bin/activate ;\
-    pip install pip -U; pip install -r requirements.txt
-```
 
-Unittest test:
-```bash
-make clean install test
-```
+## Tech Skills
 
-Check for FelipeBuongermino in gitlab.com/{group}.
-If your project is not set please add it:
+-   Data Analytics with Python (Pandas, Numpy, and Matplotlib) and SQL
+-   Statistics with Scipy, Seaborn and Statsmodels
+-   Machine Learning with Scikit-learn
+-   Deep Learning with TensorFlow, Keras
+-   Develop Data Products with Google Cloud Platform, ML Flow, Heroku and Streamlit
+-   Data Visualization with Power BI
+  
+ 
 
-- Create a new project on `gitlab.com/{group}/FelipeBuongermino`
-- Then populate it:
+## Recent Projects
 
-```bash
-##   e.g. if group is "{group}" and project_name is "FelipeBuongermino"
-git remote add origin git@github.com:{group}/FelipeBuongermino.git
-git push -u origin master
-git push -u origin --tags
-```
-
-Functionnal test with a script:
-
-```bash
-cd
-mkdir tmp
-cd tmp
-FelipeBuongermino-run
-```
-
-# Install
-
-Go to `https://github.com/{group}/FelipeBuongermino` to see the project, manage issues,
-setup you ssh public key, ...
-
-Create a python3 virtualenv and activate it:
-
-```bash
-sudo apt-get install virtualenv python-pip python-dev
-deactivate; virtualenv -ppython3 ~/venv ; source ~/venv/bin/activate
-```
-
-Clone the project and install it:
-
-```bash
-git clone git@github.com:{group}/FelipeBuongermino.git
-cd FelipeBuongermino
-pip install -r requirements.txt
-make clean install test                # install and test
-```
-Functionnal test with a script:
-
-```bash
-cd
-mkdir tmp
-cd tmp
-FelipeBuongermino-run
-```
