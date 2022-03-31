@@ -7,7 +7,7 @@ Hello there! I'm Felipe Buongermino, a Materials Science Engineer and a passiona
 
 
 
-## Tech Skills
+### Tech Skills
 
 -   Data Analytics with Python (Pandas, Numpy, and Matplotlib) and SQL
 -   Statistics with Scipy, Seaborn and Statsmodels
@@ -18,5 +18,6 @@ Hello there! I'm Felipe Buongermino, a Materials Science Engineer and a passiona
   
  
 
-## Recent Projects
+### Recent Projects
 
+-   **[Soybean and Data Science – Predicting the next 23 prices for Soybean commodity:](https://github.com/VLieberg/project_commodity_prices.git)**
