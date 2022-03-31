@@ -20,4 +20,4 @@ Hello there! I'm Felipe Buongermino, a Materials Science Engineer and a passiona
 
 ### Recent Projects
 
--   **[Soybean and Data Science – Predicting the next 23 prices for Soybean commodity:](https://github.com/VLieberg/project_commodity_prices.git)**
+-   **[Commodity and Data Science – Predicting the next 23 daily prices for Soybean commodity:](https://github.com/VLieberg/project_commodity_prices.git)**
