@@ -23,3 +23,4 @@ Hello there! I'm Felipe Buongermino, a Materials Science Engineer and a passiona
 -   **[Commodity and Data Science – Predicting the next 23 daily prices for Soybean commodity:](https://github.com/VLieberg/project_commodity_prices.git)**
 
 -   **[Data Analysis – Summer Olympic Games (1896 - 2012):](https://github.com/FelipeBuongermino/olympic-sports-medals.git)**
+      Data analysis of Summer Olympic Games, using pandas and Matplotlib. Visualization of graphs on the performance of countries, athletes, modalities and genres.
