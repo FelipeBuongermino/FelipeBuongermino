@@ -9,12 +9,12 @@ Hello there! I'm Felipe Buongermino, a Materials Science Engineer and a passiona
 
 ### Tech Skills
 
--   Data Analytics with Python (Pandas, Numpy, and Matplotlib) and SQL
--   Statistics with Scipy, Seaborn and Statsmodels
--   Machine Learning with Scikit-learn
--   Deep Learning with TensorFlow, Keras
--   Develop Data Products with Google Cloud Platform, ML Flow, Heroku and Streamlit
--   Data Visualization with Power BI
+-   Data Analytics with Python (Pandas, Numpy, and Matplotlib) and SQL.
+-   Statistics with Scipy, Seaborn and Statsmodels.
+-   Machine Learning with Scikit-learn.
+-   Deep Learning with TensorFlow, Keras.
+-   Develop Data Products with Google Cloud Platform, ML Flow, Heroku and Streamlit.
+-   Data Visualization with Power BI.
   
  
 
