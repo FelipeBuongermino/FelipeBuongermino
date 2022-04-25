@@ -24,7 +24,7 @@ Hello there! I'm Felipe Buongermino, a Materials Science Engineer and a passiona
 ### Machine Learning 
 
 -   **[Commodity and Data Science – Predicting the next 23 daily prices for Soybean commodity:](https://github.com/VLieberg/project_commodity_prices.git)**\
-      Machine Learning model based on Recurrent Neural Networks (LSTM) to predict the next 23 daily prices for Soybean commodity.
+      Machine Learning model based on Recurrent Neural Networks (LSTM) which predicts the next 23 daily prices for Soybean commodity.
       
 ### Data Analysis and Visualisation
 
