@@ -23,9 +23,14 @@ Hello there! I'm Felipe Buongermino, a Materials Science Engineer and a passiona
 
 ### Machine Learning 
 
--   **[Commodity and Data Science – Predicting the next 23 daily prices for Soybean commodity:](https://github.com/VLieberg/project_commodity_prices.git)**\
+-   **[Commodity and Data Science – Predicting the next 23 daily prices for Soybean commodity](https://github.com/VLieberg/project_commodity_prices.git)**\
       Machine Learning model based on Recurrent Neural Networks (LSTM) which predicts the next 23 daily prices for Soybean commodity.
       
+-   **[House Sales in King Count, USA – Predicting house prices](https://github.com/FelipeBuongermino/usa_housing.git)**\
+      Machine Learning model based on Gradient Boosting Regressor which predicts house price.
+    
+      
+    
 ### Data Analysis and Visualisation
 
 -   **[Data Analysis – Summer Olympic Games (1896 - 2012)](https://github.com/FelipeBuongermino/olympic-sports-medals.git)**\
